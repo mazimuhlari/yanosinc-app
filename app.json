@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "yanosinc-app",
-    "slug": "yanosinc-app",
+    "name": "yanosingc-app",
+    "slug": "yanosingc-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
